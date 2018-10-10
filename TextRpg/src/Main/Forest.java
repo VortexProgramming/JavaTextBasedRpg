@@ -8,5 +8,17 @@ public class Forest
 		
 
 	}
-
+	public static void enemyGobis()
+	{
+		
+	}
+	public static void enemyGant()
+	{
+		
+	}
+	public static void enemyIlfs()
+	{
+		
+	}
 }
+

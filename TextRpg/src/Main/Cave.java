@@ -8,5 +8,12 @@ public class Cave
 		
 
 	}
-
+	public static void enemySpooder()
+	{
+		
+	}
+	public static void enemyCaveSpooder()
+	{
+		
+	}
 }
