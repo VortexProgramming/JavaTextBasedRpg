@@ -10,16 +10,13 @@ public class MainClass {
 		Scanner scan = new Scanner(System.in);
 	    Random rand = new Random();
 	    String playerName;
-	    int playerhp;
-	     int maxhp;
-	     int maxmana;
-	     int mana;
-	     int playermeleedmg;
+	    int playerHP = 40;
+	     int mana = 40;
 	     int xp;
-	     int enemyhp;
-	     int enemymeleedmg;
-	     int Level;
-	     String charclass;
+	     int Level = 1;
+	     int maxLevel = 10;
+	     String charClass;
+	     
 	}
 
 }
