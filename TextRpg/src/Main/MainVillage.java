@@ -5,7 +5,7 @@ public class MainVillage
 
 	public static void main(String[] args) 
 	{
-		
+		System.out.println("Welcome to the village. Check up on the king for quests and the shops for better gear");
 
 	}
 	public static void villagerBlacksmith()
