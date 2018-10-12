@@ -3,7 +3,7 @@ package Main;
 import java.util.Random;
 import java.util.Scanner;
 
-public class MainClass
+public class CharacterInfo
 {
 
 	public static void main(String[] args) 
@@ -16,7 +16,8 @@ public class MainClass
 	     int xp;
 	     int Level = 1;
 	     int maxLevel = 10;
-	     String charclass;
+		 int playerDmg;
+		 int enemyDmg;
 		
 	}
 
