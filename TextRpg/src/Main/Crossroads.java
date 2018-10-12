@@ -28,6 +28,7 @@ public class Crossroads
 		}
 		else 
 			System.out.println("That is not an option");
+			Crossroads.main(null);
 	}
 
 }

@@ -12,6 +12,7 @@ public class Forest
 		int gantDMG;
 		int ilfDMG;
 		System.out.println("You've entered the forest");
+		System.out.println("");
 	}
 	public static void enemyGobis()
 	{
