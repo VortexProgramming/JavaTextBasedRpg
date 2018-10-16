@@ -21,6 +21,7 @@ public class CharacterInfo
 		 int gold = 30;
 		 int maxHP = 40;
 		
+		 	
 	}
 
 }
