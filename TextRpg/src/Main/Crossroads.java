@@ -10,6 +10,7 @@ public class Crossroads
 		Scanner input = new Scanner(System.in);
 		System.out.println("Where do you want to go? 1 for main village, 2 for forest, 3 for cave, 4 or Dagon's lair");
 		choice = input.nextInt();
+		
 		if(choice == 1)
 		{
 			MainVillage.main(null);
@@ -28,6 +29,7 @@ public class Crossroads
 		}
 		else 
 			System.out.println("That is not an option");
+			Crossroads.main(null);
 	}
 
 }
